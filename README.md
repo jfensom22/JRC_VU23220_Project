@@ -10,6 +10,7 @@
 ---
 
 ## Team Members 
+| :--- |  :--- |
 | Name | Role | 
 | **Jake** | Role |
 | **Connor** | Role |
