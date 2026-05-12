@@ -1,0 +1,15 @@
+network:
+	ethernets:
+		enp0s3:
+			addresses:
+			- 192.168.100.200/24 
+			match:
+				macaddress: 08:00:27:6c:ed:71
+			nameservers: 
+				addresses: - 192.168.100.1
+				search: []
+				routes:
+				- to: default
+				via: 192.168.100.1 
+				set-name: enp0s3 
+version: 2 
