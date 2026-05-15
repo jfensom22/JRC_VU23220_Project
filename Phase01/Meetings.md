@@ -22,5 +22,8 @@ TODO: \- CR to Complete firewall setup on new firewall hardware
 
 12 \- 05 \- 26
 
-Configured Firewall with DNS. Windows Server is up and running, but we still need to ensure connectivity to the rest of the network. The GitHub page (JRC\_VU23220\_Project) has been created and ready for files to be pushed to it.
+Configured Firewall with DNS. Windows Server is up and running, but we still need to ensure connectivity to the rest of the network. The GitHub page (JRC\_VU23220\_Project) has been created and ready for files to be pushed to it. Basic structure and early files have been pushed to GitHub.
 
+15 \- 05 \- 26
+
+	Full connectivity within our local network to the internet. Firewall configuration has been updated and pushed to GitHub, as well as, any updated documents including this one. 
