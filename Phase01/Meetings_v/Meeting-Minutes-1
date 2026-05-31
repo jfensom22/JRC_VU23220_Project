@@ -1,0 +1,23 @@
+MINUTES
+Date – 08/05/2026
+Type of Meeting 
+Stand-up Meeting
+
+Attendees
+  Connor Randall
+  Rik Stares
+  Jake Fensom
+
+Actions from last Meeting
+  Each member has worked on their allocated tasks
+  RS has progressed and just about completed the Ubuntu Server
+  JF has been working on the Palo Alto Firewall and almost has it finished
+  CR has set up the Switch and Windows Client. Windows Server still to be installed and set up
+  All members have continually maintained documentation of their tasks and overall project.
+  All members have continually updated Trello and GitHub repository.
+
+
+New Actions/Issues moving forward
+  Jake has made progress on PA configuration and Rik is able to connect to SIEM from the DMZ, however not to the DMZ from SIEM. Jake has advised that he will review the firewall’s configuration to ensure that two-way communication is possible and will advise of any blockers should they arise. Rik will test again as soon as a change has been committed.
+  The team will  focus on getting the Switch, Firewall and overall network completely set up before connecting servers and client for the project.
+
