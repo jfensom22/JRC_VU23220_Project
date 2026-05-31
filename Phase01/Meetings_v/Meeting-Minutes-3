@@ -1,0 +1,23 @@
+MINUTES
+Date – 20/05/2026
+Type of Meeting 
+Stand-up Meeting
+
+Attendees
+  Connor Randall
+  Rik Stares
+  Jake Fensom
+
+Actions from last Meeting
+  Each member has worked on their allocated tasks
+  RS has completed the deployment of the SIEM, as well as fully configuring the Fleet Servers and Endpoints, as laid out in the Trello/Github/MS Project Tasks.
+  JF has integrated the Log Sources with the servers and completed the DMZ Firewall Configuration.
+  CR has assisted with setting up the Fleet Server and endpoints, and has completed the complete configuration of the Windows Server and Client including DNS configuration.
+  All members assisted in the enrollment of Agents with the Fleet Server
+  All members have continually maintained documentation of their tasks and overall project.
+  All members have continually updated Trello, MS Project, and GitHub repository.
+
+New Actions/Issues moving forward
+  In regards to the setup and initial configuration of all parts of the network and overall project all tasks have been completed and everything seems to be functions so far. From here the team needs to completed Red Team/Blue Team testing, continue to monitor all servers and parts of the project, evaluate results of testing and then begin drafting final documentation. From there a final review and submitting of all documentation will need to take place.
+
+SEE REPOSITORY FOR TRELLO AND GITHUB SCREENSHOTS
